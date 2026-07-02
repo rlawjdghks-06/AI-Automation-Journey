@@ -1,0 +1,1 @@
+print("Python and VS Code are working correctly.")
